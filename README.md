@@ -18,7 +18,7 @@ To get started, follow the steps:
 [3_Simple_Mlp_Model.ipynb](3_Simple_Mlp_Model.ipynb) 
 - A Multi-Layer Perceptron (MLP) model. We implement [Bengio et al.](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
-[4_MLP_Model_Initialization_and_Hyper_parameters.ipynb](4_MLP_Model_Initialization_and_Hyper_parameters.ipynb)
+[4_MLP_Model_Initialization.ipynb](4_MLP_Model_Initialization.ipynb)
 - We look at pitfalls related to initializing a neural network and some related hyperparameters
 
 [5_Batch_Normalization.ipynb](5_Batch_Normalization.ipynb)
